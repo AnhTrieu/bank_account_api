@@ -1,0 +1,26 @@
+{
+  "accounts": [{
+    "id": "46cca87a-3b7d-4fa5-a3d1-c249aad1b66c",
+    "name": "Kickass_Checking",
+    "bank": "Not_A_Big_Bank",
+    "description": "Checking",
+    "transactions": [{
+      "id": "48574dab-fa8f-42bb-aaf0-989d11f13428",
+      "title": "donation",
+      "amount": "27",
+      "pending": "true"
+    }]
+  }, {
+    "id": "2ff397fd-1979-4c74-94ae-149f8f034aa0",
+    "name": "Killer_Saving",
+    "bank": "Not_A_Big_Bank",
+    "description": "Saving",
+    "transactions": []
+  }, {
+    "id": "97994b4e-9fc5-4107-931a-e38b05bdeda1",
+    "name": "Freaking_Awesome_Money_Market",
+    "bank": "Death_To_Big_Bank_small_bank",
+    "description": "Money_Market",
+    "transactions": []
+  }]
+}
